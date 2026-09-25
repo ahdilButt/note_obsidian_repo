@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "allow": [
+      "Bash(git status *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git mv *)",
+      "Bash(git log *)",
+      "Bash(git diff *)",
+      "Bash(git push)",
+      "Bash(git push origin main)",
+      "Bash(ls *)",
+      "Bash(date *)",
+      "mcp__plugin_telegram_telegram"
+    ],
+    "deny": [
+      "Bash(rm *)",
+      "Bash(sudo *)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git reset *)",
+      "Bash(git clean *)",
+      "Bash(git rebase *)",
+      "Bash(curl *)",
+      "Bash(wget *)"
+    ]
+  }
+}
