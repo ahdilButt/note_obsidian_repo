@@ -4,4 +4,6 @@ The clerk's map of this notebook. One line per folder: the path, then what belon
 
 ## Folders
 
-_None yet. The clerk will suggest the first folders as your thoughts arrive, or you can send it "set up starter folders for: …"._
+- `Business/` – business ideas and ventures.
+- `Business/EICR App/` – the EICR app: product, features and plans.
+- `Business/EICR App/Pricing/` – pricing and tiers for the EICR app.
