@@ -1,6 +1,6 @@
 ---
 created: 2026-09-27T09:35:58+00:00
-updated: 2026-09-27T09:35:58+00:00
+updated: 2026-09-27T09:54:29+00:00
 source: telegram
 ---
 
@@ -17,3 +17,10 @@ source: telegram
 > 2. Finish as much of the stage as you can of Catch Limited.
 > 3. Polish revision.
 > 4. Finish DataCamp.
+
+### 2026-09-27
+
+- Make social media accounts.
+
+> [!quote]- Original
+> To-do: make social media accounts
