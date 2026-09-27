@@ -10,5 +10,6 @@ The clerk's map of this notebook. One line per folder: the path, then what belon
 - `Business/Madani/` – ideas about the store we run, Madani Food Store.
 - `Business/Madani/Social Media/` – social media ideas for Madani Food Store.
 - `Personal/` – personal life, goals and self-improvement.
+- `Personal/Identity/` – who I am and who I want to be.
 - `Personal/Mindset/` – mantras, reminders and mindset to repeat to myself.
 - `To-do/` – task lists and things to get done.
