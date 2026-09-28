@@ -12,4 +12,7 @@ The clerk's map of this notebook. One line per folder: the path, then what belon
 - `Personal/` – personal life, goals and self-improvement.
 - `Personal/Identity/` – who I am and who I want to be.
 - `Personal/Mindset/` – mantras, reminders and mindset to repeat to myself.
+- `Task/` – tasks, split by kind.
+- `Task/Errands/` – errands to run.
+- `Task/Work/` – work tasks.
 - `To-do/` – task lists and things to get done.
