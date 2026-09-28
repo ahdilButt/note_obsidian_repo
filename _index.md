@@ -5,6 +5,7 @@ The clerk's map of this notebook. One line per folder: the path, then what belon
 ## Folders
 
 - `Business/` – business ideas and ventures.
+- `Business/Catch LTD/` – Catch LTD.
 - `Business/EICR App/` – the EICR app: product, features and plans.
 - `Business/EICR App/Pricing/` – pricing and tiers for the EICR app.
 - `Business/Madani/` – ideas about the store we run, Madani Food Store.

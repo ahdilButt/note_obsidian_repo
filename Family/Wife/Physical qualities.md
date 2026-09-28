@@ -1,0 +1,7 @@
+- femininely pretty face 
+- Cute to look at
+- bright eyes 
+- prominent nose, similar triangle shape to mine
+- (optional) kissable lips
+- straight hair
+- 

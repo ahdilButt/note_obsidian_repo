@@ -1,0 +1,9 @@
+- Socially intelligent 
+- Loyal, personal, intimate
+- Comes from a healthy strong moral family 
+- Takes care of herself more than me, cares about looks and presentation more than me
+- ambitious 
+- empathetic to visibly feel when I'm stressed
+- respectful - will always protect my image
+- 100% soul - there is space for kindness, understanding in every interaction 
+- 
