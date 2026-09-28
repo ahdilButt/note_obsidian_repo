@@ -9,6 +9,9 @@ The clerk's map of this notebook. One line per folder: the path, then what belon
 - `Business/EICR App/Pricing/` – pricing and tiers for the EICR app.
 - `Business/Madani/` – ideas about the store we run, Madani Food Store.
 - `Business/Madani/Social Media/` – social media ideas for Madani Food Store.
+- `Family/` – family.
+- `Family/Wife/` – my wife.
+- `Family/Wife/Children/` – children.
 - `Personal/` – personal life, goals and self-improvement.
 - `Personal/Identity/` – who I am and who I want to be.
 - `Personal/Mindset/` – mantras, reminders and mindset to repeat to myself.

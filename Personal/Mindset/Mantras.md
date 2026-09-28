@@ -1,0 +1,1 @@
+Your first solution to everything must always be more effort. There is always a way to think about it. Learning is to equip yourself with all the tools to be able to do that.

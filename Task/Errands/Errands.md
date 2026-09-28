@@ -7,6 +7,7 @@ source: telegram
 # Errands
 
 - [ ] Find an instructor whose car I can borrow to do test routes with.
+- [ ] bring vaseline home 
 
 > [!quote]- Original
 > In the errands folder you've just created, can you put the following errands:
