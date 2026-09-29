@@ -13,6 +13,8 @@ The clerk's map of this notebook. One line per folder: the path, then what belon
 - `Family/` – family.
 - `Family/Wife/` – my wife.
 - `Family/Wife/Children/` – children.
+- `Lifestyle/` – how I live day to day.
+- `Lifestyle/Diet/` – food, diet and cheat days.
 - `Personal/` – personal life, goals and self-improvement.
 - `Personal/Identity/` – who I am and who I want to be.
 - `Personal/Mindset/` – mantras, reminders and mindset to repeat to myself.
