@@ -15,10 +15,12 @@ The clerk's map of this notebook. One line per folder: the path, then what belon
 - `Family/Wife/Children/` – children.
 - `Lifestyle/` – how I live day to day.
 - `Lifestyle/Diet/` – food, diet and cheat days.
+- `Organisations/` – organisations I deal with.
 - `People/` – people in my life.
 - `Personal/` – personal life, goals and self-improvement.
 - `Personal/Identity/` – who I am and who I want to be.
 - `Personal/Mindset/` – mantras, reminders and mindset to repeat to myself.
+- `Places/` – places I go or want to go.
 - `Task/` – tasks, split by kind.
 - `Task/Errands/` – errands to run.
 - `Task/Work/` – work tasks.
