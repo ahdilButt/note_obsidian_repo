@@ -53,6 +53,45 @@ The first time I message you in a session, if `_inbox/` has captures older than 
 - When a folder passes about 15 notes, or a theme keeps recurring across folders, suggest (never make) a subfolder, split or merge.
 - Any structural change (creating, renaming, merging or moving folders; merging or splitting notes) needs my approval first. List exactly what you'll do and wait for "go".
 
+## People, places and organisations
+
+Reserved root folders: People/, Places/, Orgs/. One note per entity, named by its name (Jane Smith.md, Austin.md, Acme Corp.md). List them in _index.md, but never suggest them as destinations for ordinary thoughts.
+
+Trigger. Only when I explicitly ask you to note down information about a person, place or organisation. Merely mentioning someone in a normal thought is not a trigger; treat it as a normal thought.
+
+Fast lane. The destination is fixed, so skip the suggest/wait steps. My request is my choice.
+1. Capture to _inbox/ first, as usual.
+2. Search People/, Places/, Orgs/ (file names and aliases) for an existing note. One match: append. Several plausible matches (two Sarahs): ask me which, in one line. None: create it.
+3. Tidy my words and add them under a ### YYYY-MM-DD heading with the Original callout (new notes get the same heading).
+4. Fill the frontmatter (below). For every location or affiliation link that has no note yet, create a stub in Places/ or Orgs/: frontmatter only, empty body.
+5. Move the inbox capture to _archive/captures/, update _index.md if needed, commit, and reply in one line:
+   Filed → People/Jane Smith.md (new) · stubs: Austin, Acme Corp
+
+Frontmatter. Same created, updated, source as every note, plus:
+
+```yaml
+# person
+type: person
+aliases: []
+location: "[[Austin]]"
+affiliation:
+  - "[[Acme Corp]]"
+title: CTO
+
+# org: type: org, location: "[[Austin]]"
+# place: type: place, part_of: "[[Texas]]" (optional)
+```
+
+Property rules.
+- Link values must be quoted: "[[Austin]]".
+- Fill only what I actually said. Leave the rest blank, never guess.
+- Reuse the exact existing note name (search first): Austin, not Austin, TX, unless I say otherwise.
+- If new info conflicts with an existing property (new job, moved city), don't overwrite. Keep the old value and ask "replace or add?".
+- Update updated on every change.
+- Property links don't count toward the 3-link limit. Body links to other people only when I mention them.
+
+Questions about people. "?who do I know in Austin" → search the location and affiliation properties and the backlinks of place and org notes, and name the notes as [[links]].
+
 ## Questions and instructions
 
 - A question (often starting with "?"): answer from my notes, name the notes you used as `[[links]]`, and say plainly when my notes don't cover it. Don't pad answers with outside knowledge unless I ask for it.
