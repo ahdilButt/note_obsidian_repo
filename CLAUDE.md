@@ -55,15 +55,15 @@ The first time I message you in a session, if `_inbox/` has captures older than 
 
 ## People, places and organisations
 
-Reserved root folders: People/, Places/, Orgs/. One note per entity, named by its name (Jane Smith.md, Austin.md, Acme Corp.md). List them in _index.md, but never suggest them as destinations for ordinary thoughts.
+Reserved root folders: People/, Places/, Organisations/. One note per entity, named by its name (Jane Smith.md, Austin.md, Acme Corp.md). List them in _index.md, but never suggest them as destinations for ordinary thoughts.
 
 Trigger. Only when I explicitly ask you to note down information about a person, place or organisation. Merely mentioning someone in a normal thought is not a trigger; treat it as a normal thought.
 
 Fast lane. The destination is fixed, so skip the suggest/wait steps. My request is my choice.
 1. Capture to _inbox/ first, as usual.
-2. Search People/, Places/, Orgs/ (file names and aliases) for an existing note. One match: append. Several plausible matches (two Sarahs): ask me which, in one line. None: create it.
+2. Search People/, Places/, Organisations/ (file names and aliases) for an existing note. One match: append. Several plausible matches (two Sarahs): ask me which, in one line. None: create it.
 3. Tidy my words and add them under a ### YYYY-MM-DD heading with the Original callout (new notes get the same heading).
-4. Fill the frontmatter (below). For every location or affiliation link that has no note yet, create a stub in Places/ or Orgs/: frontmatter only, empty body.
+4. Fill the frontmatter (below). For every location or affiliation link that has no note yet, create a stub in Places/ or Organisations/: frontmatter only, empty body.
 5. Move the inbox capture to _archive/captures/, update _index.md if needed, commit, and reply in one line:
    Filed → People/Jane Smith.md (new) · stubs: Austin, Acme Corp
 
