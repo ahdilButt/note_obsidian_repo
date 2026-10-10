@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:15:12+00:00
+updated: 2026-10-10T06:17:00+00:00
 source: telegram
 ---
 
@@ -78,3 +78,8 @@ With garlic, make sure you bite into it. If there's a little yellow growth seed 
 > With garlic make sure that you bite into it and if there's a little white growth inside, that means the garlic is not only going to last you a week, maybe a week or two, and you only have to pay 17.00
 >
 > Yes, also mention little yellow growth seed inside not white
+
+With mint, check whether the bottom is dry. If it's too dry or the leaves are dying off, that's bad. If it's fresh at the bottom, a mint box will cost you around £10 to £13.
+
+> [!quote]- Original
+> About mint you should check if the bottom is dry. If it's too dry or the leaves are dying off, then that's bad. Otherwise if it's fresh at the bottom, then a mint box will cost you around £10 to £13.
