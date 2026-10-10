@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:01:00+00:00
+updated: 2026-10-10T06:04:05+00:00
 source: telegram
 ---
 
@@ -41,3 +41,10 @@ Gala apples: make sure they're bright red and clear in the packets. Price around
 > Gala apples: make sure that they're bright red and they're clear in the packets 
 >
 >  price around £10
+
+Okra is about £14, £15 or £16, depending on quality. If it's spotty, dark and low quality, you can go to around £10.
+
+> [!quote]- Original
+> Okra is about £14, £15, £16 depending on quality 
+>
+> If it's spotty and dark and it's low quality, you can go to around £10
