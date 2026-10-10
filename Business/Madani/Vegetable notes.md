@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:54:29+00:00
+updated: 2026-10-10T06:56:28+00:00
 source: telegram
 ---
 
@@ -147,3 +147,8 @@ Simon, at Dunn's Produce, sells the best tomatoes.
 > Simon, at Dunn's produce
 >
 > Sells best tomatos
+
+6 kg of tomatoes: about £9 is a good price.
+
+> [!quote]- Original
+> 6 kg tomatoes - about 9 is good price
