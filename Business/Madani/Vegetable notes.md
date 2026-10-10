@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:40:28+00:00
+updated: 2026-10-10T06:41:43+00:00
 source: telegram
 ---
 
@@ -114,3 +114,10 @@ VegExpress has one guy called Fahad.
 
 > [!quote]- Original
 > Veg express has one guy called Fahad
+
+A half-finger-in-height tomato should only be about £8.50 for good quality. They charge you £10, which is too much.
+
+> [!quote]- Original
+> A half-finger-in-height size tomato should only be about £0.85 for good quality. They charge you £1.00, which is too much.
+>
+> 1 and also change the price 8.50  and £10
