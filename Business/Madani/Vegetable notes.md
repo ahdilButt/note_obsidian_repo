@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-07T11:02:33+00:00
+updated: 2026-10-10T05:57:47+00:00
 source: telegram
 ---
 
@@ -22,3 +22,10 @@ source: telegram
 > - 4 pound spring onion
 > - big long one spring onion, £6 14 pc
 > - small pds melon, green oval one,
+
+### 2026-10-10
+
+At the modern vegetable market, park past the A1 vegetable store, after the exit of driving. You can only drive in first gear, at 10 mph.
+
+> [!quote]- Original
+> About the modern vegetable market: in terms of parking you park past the A1 vegetable store after the exit of driving. You can only drive in first gear at 10 mph
