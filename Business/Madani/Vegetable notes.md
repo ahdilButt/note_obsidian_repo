@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T07:00:32+00:00
+updated: 2026-10-10T07:51:46+00:00
 source: telegram
 ---
 
@@ -166,3 +166,8 @@ Jameel: swearing, strong handshake, next to the dragon fruit.
 > George Haines and son
 >
 > Jameel, swearing strong handshake next to dragonfruit
+
+With karela, make sure the stem at the top is not dry. If it's dry, by tomorrow it will turn yellow and you won't be able to sell it. If you want long-lasting karela, make sure the stem is not dry.
+
+> [!quote]- Original
+> With Karela you have to make sure that the stem from the top is not dry. If it's dry then by tomorrow it will turn yellow and you'll be unable to sell it. If you want long-lasting Karela you have to make sure that the stem is dry. It's not dry.
