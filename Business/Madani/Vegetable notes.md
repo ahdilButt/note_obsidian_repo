@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:13:37+00:00
+updated: 2026-10-10T06:15:12+00:00
 source: telegram
 ---
 
@@ -71,3 +71,10 @@ In the orange store, we met Lewis and Chris. Lewis is blonde, blue-eyed and shor
 > In the orange store, we met with Lewis, and Chris. Lewis blonde blueeye short and took dad's order.
 >
 > Chris seemed higher in command.
+
+With garlic, make sure you bite into it. If there's a little yellow growth seed inside, the garlic is only going to last you a week, maybe a week or two, and you only have to pay £17.
+
+> [!quote]- Original
+> With garlic make sure that you bite into it and if there's a little white growth inside, that means the garlic is not only going to last you a week, maybe a week or two, and you only have to pay 17.00
+>
+> Yes, also mention little yellow growth seed inside not white
