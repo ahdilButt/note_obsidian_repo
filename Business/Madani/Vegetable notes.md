@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:11:09+00:00
+updated: 2026-10-10T06:13:37+00:00
 source: telegram
 ---
 
@@ -60,3 +60,14 @@ With the coriander, make sure you look on the inside. The bunches should be tigh
 
 > [!quote]- Original
 > Spellicious and coriander boxes are around £6 to £8. With the coriander make sure that you're looking on the inside. Make sure that the bunches are tightly bound and they're not loose or badly fitted in one bunch. That's bad. Also check the weight of the boxes. Some boxes are slightly heavier than the others. Again underneath, look for anybad leaves
+
+About the place: the person talking to Dad and taking the order looks like Shazad, the software dev. His name was Mazar.
+
+In the orange store, we met Lewis and Chris. Lewis is blonde, blue-eyed and short, and took Dad's order. Chris seemed higher in command.
+
+> [!quote]- Original
+> About the place, the person talking to dad and taking the order looks like software dev Shazad: his name was Mazar.
+>
+> In the orange store, we met with Lewis, and Chris. Lewis blonde blueeye short and took dad's order.
+>
+> Chris seemed higher in command.
