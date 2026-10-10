@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:04:05+00:00
+updated: 2026-10-10T06:07:52+00:00
 source: telegram
 ---
 
@@ -48,3 +48,8 @@ Okra is about £14, £15 or £16, depending on quality. If it's spotty, dark and
 > Okra is about £14, £15, £16 depending on quality 
 >
 > If it's spotty and dark and it's low quality, you can go to around £10
+
+For spinach boxes, check the leaves underneath. If you see any dead leaves, it means the spinach will go off in a few days and it's bad quality.
+
+> [!quote]- Original
+> For spinach boxes check the leaves underneath because if you see any dead leaves, then it means the spinach is going to go off in a few days and it's bad quality
