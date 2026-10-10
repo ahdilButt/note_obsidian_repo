@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:41:43+00:00
+updated: 2026-10-10T06:47:18+00:00
 source: telegram
 ---
 
@@ -121,3 +121,8 @@ A half-finger-in-height tomato should only be about £8.50 for good quality. The
 > A half-finger-in-height size tomato should only be about £0.85 for good quality. They charge you £1.00, which is too much.
 >
 > 1 and also change the price 8.50  and £10
+
+Fruit must be shiny to be quality. If it's not shiny, it's not quality.
+
+> [!quote]- Original
+> Fruit must be shiny to be quality. If it's not shiny then it's not quality
