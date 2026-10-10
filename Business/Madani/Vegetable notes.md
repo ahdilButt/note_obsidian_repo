@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T05:57:47+00:00
+updated: 2026-10-10T05:59:30+00:00
 source: telegram
 ---
 
@@ -29,3 +29,8 @@ At the modern vegetable market, park past the A1 vegetable store, after the exit
 
 > [!quote]- Original
 > About the modern vegetable market: in terms of parking you park past the A1 vegetable store after the exit of driving. You can only drive in first gear at 10 mph
+
+Banana prices are around £17, £18 or £19 for a good box. If it's spotted, you can go down to £12, and it has a really good price, about £7 or £8.
+
+> [!quote]- Original
+> Banana prices are around £17, £18, £19 for a good box. If it's spotted you can go down to £12 and it has a really good price, about £7, £8
