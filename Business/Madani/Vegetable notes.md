@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:47:18+00:00
+updated: 2026-10-10T06:48:24+00:00
 source: telegram
 ---
 
@@ -126,3 +126,8 @@ Fruit must be shiny to be quality. If it's not shiny, it's not quality.
 
 > [!quote]- Original
 > Fruit must be shiny to be quality. If it's not shiny then it's not quality
+
+Strawberries: you can sell them for around 70p each. Check the quality. Sometimes boxes are around 30p, but of course they're low quality, so you have to be the one to judge. We just picked up a 70p strawberry box and all of them are very good quality.
+
+> [!quote]- Original
+> Strawberries, you can sell around 70p each. Check the quality. Sometimes boxes are around 30p but of course they're low quality so you have to be the one to judge. We just picked up a 70p strawberry box and all of them are very good quality.
