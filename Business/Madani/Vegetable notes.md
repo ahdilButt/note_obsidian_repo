@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:57:18+00:00
+updated: 2026-10-10T07:00:32+00:00
 source: telegram
 ---
 
@@ -157,3 +157,12 @@ With tomatoes, other stores will have larger tomatoes for the same price, so you
 
 > [!quote]- Original
 > With tomatoes other stores will have larger tomatoes for the same price so you need to be the judge of that and check around for the best deal. Go across to New Veg Express, Duns Produce, etc
+
+George Haines and Son.
+
+Jameel: swearing, strong handshake, next to the dragon fruit.
+
+> [!quote]- Original
+> George Haines and son
+>
+> Jameel, swearing strong handshake next to dragonfruit
