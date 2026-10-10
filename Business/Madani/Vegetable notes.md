@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T05:59:30+00:00
+updated: 2026-10-10T06:01:00+00:00
 source: telegram
 ---
 
@@ -34,3 +34,10 @@ Banana prices are around £17, £18 or £19 for a good box. If it's spotted, you
 
 > [!quote]- Original
 > Banana prices are around £17, £18, £19 for a good box. If it's spotted you can go down to £12 and it has a really good price, about £7, £8
+
+Gala apples: make sure they're bright red and clear in the packets. Price around £10.
+
+> [!quote]- Original
+> Gala apples: make sure that they're bright red and they're clear in the packets 
+>
+>  price around £10
