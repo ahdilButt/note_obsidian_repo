@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:56:28+00:00
+updated: 2026-10-10T06:57:18+00:00
 source: telegram
 ---
 
@@ -152,3 +152,8 @@ Simon, at Dunn's Produce, sells the best tomatoes.
 
 > [!quote]- Original
 > 6 kg tomatoes - about 9 is good price
+
+With tomatoes, other stores will have larger tomatoes for the same price, so you need to be the judge of that and check around for the best deal. Go across to New Veg Express, Dunn's Produce, etc.
+
+> [!quote]- Original
+> With tomatoes other stores will have larger tomatoes for the same price so you need to be the judge of that and check around for the best deal. Go across to New Veg Express, Duns Produce, etc
