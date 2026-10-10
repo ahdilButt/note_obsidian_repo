@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:17:27+00:00
+updated: 2026-10-10T06:18:09+00:00
 source: telegram
 ---
 
@@ -88,3 +88,8 @@ When mint is dry at the bottom, it's very, very visible – almost crackly, like
 
 > [!quote]- Original
 > When you see it's dry at the bottom, it's very, very visible. It's almost crackly, like the leaves, so that one you can go to around £5
+
+Musharraf also met my dad, but he works there. We picked up the mint and coriander from New Fresh Veg Limited. He's only there to meet his uncle, who works at New Fresh Veg Limited.
+
+> [!quote]- Original
+> Also Musharraf met my dad but he works there. We picked up the mint and coriander from New Fresh Veg Limited and he's only there to meet his uncle, who works at New Fresh Veg Limited
