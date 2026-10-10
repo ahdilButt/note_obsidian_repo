@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:48:24+00:00
+updated: 2026-10-10T06:53:57+00:00
 source: telegram
 ---
 
@@ -131,3 +131,12 @@ Strawberries: you can sell them for around 70p each. Check the quality. Sometime
 
 > [!quote]- Original
 > Strawberries, you can sell around 70p each. Check the quality. Sometimes boxes are around 30p but of course they're low quality so you have to be the one to judge. We just picked up a 70p strawberry box and all of them are very good quality.
+
+Dunn's Produce is the store. The bald gora is Ian, and the Asian guy's name is Aslam. This is Sameer's place of work.
+
+> [!quote]- Original
+> Dunn's produce is the store 
+> Gora bald is Ian
+> And Asian guy name is Aslam
+>
+> This is sameers place of work
