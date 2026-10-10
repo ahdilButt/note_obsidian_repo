@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:39:35+00:00
+updated: 2026-10-10T06:40:28+00:00
 source: telegram
 ---
 
@@ -109,3 +109,8 @@ B and M Exotic are strict on price, very much like VegExpress. There are two peo
 >
 > Gru Bhai who was dealing with a customer 
 > Qureshu  shaked my hand
+
+VegExpress has one guy called Fahad.
+
+> [!quote]- Original
+> Veg express has one guy called Fahad
