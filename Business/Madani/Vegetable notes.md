@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:37:43+00:00
+updated: 2026-10-10T06:39:35+00:00
 source: telegram
 ---
 
@@ -98,3 +98,14 @@ Kenyan green chilies are high quality. Make sure they're stiff and dark green, a
 
 > [!quote]- Original
 > Kenyan green chilies are high quality. You want to make sure that they're stiff and dark green and not dry on the top. That's how you know it's good. How much does one box cost? Between £20 and £23 you can get a 5 kg box of Kenyan green chilies.
+
+B and M Exotic are strict on price, very much like VegExpress. There are two people of note there:
+
+- Gru Bhai, who was dealing with a customer.
+- Qureshu, who shook my hand.
+
+> [!quote]- Original
+> B and m exotic  - are strict in price, very much like VegExpress. There are two people of note 
+>
+> Gru Bhai who was dealing with a customer 
+> Qureshu  shaked my hand
