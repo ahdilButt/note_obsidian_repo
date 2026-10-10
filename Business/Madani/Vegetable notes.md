@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T06:17:00+00:00
+updated: 2026-10-10T06:17:27+00:00
 source: telegram
 ---
 
@@ -83,3 +83,8 @@ With mint, check whether the bottom is dry. If it's too dry or the leaves are dy
 
 > [!quote]- Original
 > About mint you should check if the bottom is dry. If it's too dry or the leaves are dying off, then that's bad. Otherwise if it's fresh at the bottom, then a mint box will cost you around £10 to £13.
+
+When mint is dry at the bottom, it's very, very visible – almost crackly, like the leaves. For that one you can go to around £5.
+
+> [!quote]- Original
+> When you see it's dry at the bottom, it's very, very visible. It's almost crackly, like the leaves, so that one you can go to around £5
