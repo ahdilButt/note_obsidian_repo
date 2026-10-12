@@ -54,7 +54,7 @@ For spinach boxes, check the leaves underneath. If you see any dead leaves, it m
 > [!quote]- Original
 > For spinach boxes check the leaves underneath because if you see any dead leaves, then it means the spinach is going to go off in a few days and it's bad quality
 
-Spellicious and coriander boxes are around £6 to £8.
+Spinach and coriander boxes are around £6 to £8.
 
 With the coriander, make sure you look on the inside. The bunches should be tightly bound, not loose or badly fitted in one bunch – that's bad. Also check the weight of the boxes: some are slightly heavier than others. Again, look underneath for any bad leaves.
 
