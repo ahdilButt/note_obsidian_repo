@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-10T07:51:46+00:00
+updated: 2026-10-12T06:13:43+00:00
 source: telegram
 ---
 
@@ -171,3 +171,10 @@ With karela, make sure the stem at the top is not dry. If it's dry, by tomorrow 
 
 > [!quote]- Original
 > With Karela you have to make sure that the stem from the top is not dry. If it's dry then by tomorrow it will turn yellow and you'll be unable to sell it. If you want long-lasting Karela you have to make sure that the stem is dry. It's not dry.
+
+### 2026-10-12
+
+With Gala apples, customers don't pick up bowls of 3. We need to aim for 4 or more per bowl. Make sure this maths is worked out when looking at boxes.
+
+> [!quote]- Original
+> For Gala apples, 3 in a bowl, our customers don't pick up. We need to aim for 4+ . Make sure this math is calculated when looking at boxes.
