@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-12T06:13:43+00:00
+updated: 2026-10-12T06:20:07+00:00
 source: telegram
 ---
 
@@ -178,3 +178,12 @@ With Gala apples, customers don't pick up bowls of 3. We need to aim for 4 or mo
 
 > [!quote]- Original
 > For Gala apples, 3 in a bowl, our customers don't pick up. We need to aim for 4+ . Make sure this math is calculated when looking at boxes.
+
+Egyptian dates – the raw ones, not the dried ones. You can order them for about £6, which is okay, but if it's around £10, that's not good.
+
+These are the ones sold at Dunn's Produce, Samira's workplace.
+
+> [!quote]- Original
+> Egyptian dates: that's the raw dates not the dried ones. You can order them for about £6, which is okay, but if it's like £10, not good 
+>
+> These are the ones sold at Duns Produce, Samira's workplace
