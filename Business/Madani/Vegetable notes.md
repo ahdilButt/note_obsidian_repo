@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-12T06:20:07+00:00
+updated: 2026-10-12T08:02:19+00:00
 source: telegram
 ---
 
@@ -187,3 +187,8 @@ These are the ones sold at Dunn's Produce, Samira's workplace.
 > Egyptian dates: that's the raw dates not the dried ones. You can order them for about £6, which is okay, but if it's like £10, not good 
 >
 > These are the ones sold at Duns Produce, Samira's workplace
+
+George Haines sells birdseed: 20 kg for £14.50.
+
+> [!quote]- Original
+> George Haynes sells birdseed: 20 kg, £14.50
