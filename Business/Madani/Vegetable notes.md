@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-12T08:02:19+00:00
+updated: 2026-10-13T05:52:10+00:00
 source: telegram
 ---
 
@@ -192,3 +192,10 @@ George Haines sells birdseed: 20 kg for £14.50.
 
 > [!quote]- Original
 > George Haynes sells birdseed: 20 kg, £14.50
+
+### 2026-10-13
+
+Red box baby potatoes, also called salad potatoes, are about £9–£10 a box. They're sold in most places that sell onions.
+
+> [!quote]- Original
+> Red box baby potato,  also called salad potato, about £9-10 a box sold in most places where they sell onions
