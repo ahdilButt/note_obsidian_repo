@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-13T06:33:06+00:00
+updated: 2026-10-13T06:36:18+00:00
 source: telegram
 ---
 
@@ -210,3 +210,13 @@ People at Paul's Produce:
 > Paul's produce people:
 >
 > Lewis was there. There's two Paul's. Paul nice friendly bald one. And a bit of let looking one. Said he was also Paul, hence 'Pauls' produce - but called himself spider
+
+Two people at the store RW Barlett:
+
+- David is the bold one.
+- Raymun is the Arab Latino who works under David.
+
+> [!quote]- Original
+> Two people: David and Raymun. David is the bold one and Raymun is the Arab Latino who works under David 
+>
+> For the store RW Barlett
