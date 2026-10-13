@@ -1,6 +1,6 @@
 ---
 created: 2026-10-07T10:59:18+00:00
-updated: 2026-10-13T05:52:10+00:00
+updated: 2026-10-13T06:33:06+00:00
 source: telegram
 ---
 
@@ -199,3 +199,14 @@ Red box baby potatoes, also called salad potatoes, are about £9–£10 a box. T
 
 > [!quote]- Original
 > Red box baby potato,  also called salad potato, about £9-10 a box sold in most places where they sell onions
+
+People at Paul's Produce:
+
+- Lewis was there.
+- There are two Pauls. One is a nice, friendly, bald Paul.
+- The other is "a bit of let looking one". He said he was also Paul – hence "Paul's" Produce – but called himself Spider.
+
+> [!quote]- Original
+> Paul's produce people:
+>
+> Lewis was there. There's two Paul's. Paul nice friendly bald one. And a bit of let looking one. Said he was also Paul, hence 'Pauls' produce - but called himself spider
