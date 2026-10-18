@@ -1,6 +1,6 @@
 ---
 created: 2026-10-17T05:00:18+00:00
-updated: 2026-10-18T16:49:57+00:00
+updated: 2026-10-18T16:51:29+00:00
 source: telegram
 ---
 
@@ -55,7 +55,7 @@ Muli 20 15
 - [ ] Small potato
 - [ ] Salad potato
 - [ ] Pomegranate
-- [ ] Red capsicum (we have green capsicum, red capsicum)
+- [ ] Red capsicum – we don't have any
 - [ ] Tomatoes – more tomatoes
 - [ ] Salad tomatoes – around £11 a box, good size
 - [ ] Round turnip
