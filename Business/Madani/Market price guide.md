@@ -1,85 +1,254 @@
 ---
 created: 2026-10-18T16:52:59+00:00
-updated: 2026-10-18T16:52:59+00:00
+updated: 2026-10-18T16:55:42+00:00
 source: telegram
 ---
 
 # Market price guide
 
-A reference for everything we buy at the market: what it usually costs, who sells it, and what to check. Built on 2026-10-18 from [[Vegetable notes]], [[Checklist Notes]] and [[Vegetable Checklist]] (plus the 13 Oct shopping list still in the inbox). For the people at each store, see [[Checklist Notes]].
+What we buy at the market, broken down by item and by the **form** it comes in (box, loose, containers, kg), so we can work out the cost per piece and what deals we can make. Built from [[Vegetable notes]], [[Checklist Notes]] and [[Vegetable Checklist]]. For the people at each store, see [[Checklist Notes]].
 
-"–" means my notes don't say yet. Prices are per box unless stated.
+## How this file works
 
-**General rule:** fruit must be shiny to be quality. Shop around – other stores often have bigger stock for the same price.
+- **One section per item.** Each has a forms table, then checks, suppliers and selling notes.
+- **One row per form.** If an item comes several ways (grapes as a loose 5 kg box or as a box of containers), each way gets its own row. Add more rows as you learn them.
+- **Columns:**
+  - **Form** – how it comes: box, loose box, containers, bag, kg.
+  - **Per pack** – what's inside: pieces, containers or weight.
+  - **Pack price** – what we pay. Written as good / usual / too much where known.
+  - **Per unit** – worked out as pack price ÷ pieces (or per kg). This is the figure for pricing deals: anything sold above it is profit.
+  - **Notes** – quality, date heard, anything else.
+- "–" means not known yet.
+- Items with nothing but a name are in **Not priced yet** at the bottom. They move up into their own section once we know more.
+
+**General rules:** fruit must be shiny to be quality. Shop around – other stores often have bigger stock for the same price.
+
+---
 
 ## Vegetables
 
-| Item | Usual price | Suppliers | What to check |
-|---|---|---|---|
-| Aubergine | £6; £6.50; £8 max | – | 18–20 in a box. Doesn't need to be big, but must be pretty |
-| Baby / salad potatoes (red box) | £9–£10 | Most places that sell onions | – |
-| Bird's-eye chilli | – | – | – |
-| Bullet chilli | – | – | – |
-| Butternut squash | – | – | – |
-| Capsicum | – | – | Tiny ones: can make 3 in a bowl |
-| Carrot | – | – | – |
-| Cassava | – | – | – |
-| Cauliflower | – | – | – |
-| Courgette | £5.50–£6 | – | About 14–16 pieces a box |
-| Cucumber | £10 for 14 pieces (Dole) | – | – |
-| Garlic | £17 | – | Bite into it: a little yellow growth seed inside means it only lasts a week or two |
-| Ginger | – | – | – |
-| Haldi | – | – | – |
-| Jalii kadoo | – | – | Don't buy small. Get the bigger ones with chalk – you can make money |
-| Karela | – | – | Long ones. Stem at the top must not be dry, or it turns yellow by tomorrow |
-| Kenyan green chillies | £20–£23 for 5 kg | – | Stiff, dark green, not dry on top |
-| Lettuce | – | – | – |
-| Muli | – (note says "Muli 20 15") | – | – |
-| Okra | £14–£16 | – | Spotty, dark, low quality: around £10 |
-| Onions | – | Sizes: 4 kg, 8 kg, 25 kg | – |
-| Red onion | – | 1 kg packets | – |
-| Spring onion | £4 | – | Big long ones: £6 for 14 pieces |
-| Tomatoes (half-finger height) | about £8.50 | – | They charge £10 – too much |
-| Tomatoes (6 kg) | about £9 | Dunn's Produce (Simon has the best), VegExpress | Other stores may have bigger tomatoes for the same price |
-| Salad tomatoes | around £11 | – | Good size |
-| Cherry tomatoes | – | – | – |
-| Turnip / round turnip | – | – | – |
-| White potato / small potato | – | – | – |
-| Yellow plantain | – | – | – |
+### Aubergine
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box | 18–20 pieces | £6 good; £6.50; £8 max | 30p–44p | 13 Oct |
+
+- **Checks:** doesn't need to be a big size, but it has to be pretty.
+
+### Baby / salad potatoes
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Red box | – | £9–£10 | – | |
+
+- **Suppliers:** most places that sell onions.
+
+### Capsicum
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| – | – | – | – | Green and red; red currently out of stock |
+
+- **Selling:** tiny ones – can make 3 in a bowl.
+
+### Courgette
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box | 14–16 pieces | £5.50–£6 | 34p–43p | 13 Oct |
+
+### Cucumber
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box (Dole) | 14 pieces | £10 | 71p | |
+
+### Garlic
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| – | – | £17 | – | Peeled garlic also wanted |
+
+- **Checks:** bite into it. A little yellow growth seed inside means it only lasts a week or two.
+
+### Jalii kadoo
+
+- **Checks:** don't buy small. Get the bigger ones with chalk – you can make money.
+
+### Karela
+
+- **Checks:** long ones, not small. The stem at the top must not be dry – if it is, it turns yellow by tomorrow and won't sell.
+
+### Kenyan green chillies
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box | 5 kg | £20–£23 | £4–£4.60 per kg | High quality |
+
+- **Checks:** stiff, dark green, not dry on top.
+
+### Muli
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| – | – | – | – | Your note says "Muli 20 15". Long muli also wanted |
+
+### Okra
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box | – | £14–£16 depending on quality | – | |
+| Box, low quality | – | around £10 | – | Spotty and dark |
+
+### Onions
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Bag | 4 kg | – | – | |
+| Bag | 8 kg | – | – | |
+| Bag | 25 kg | – | – | We need at least 3 |
+| Red onion packet | 1 kg | – | – | |
+
+### Spring onion
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Standard | – | £4 | – | |
+| Big long ones | 14 pieces | £6 | 43p | |
+
+- **Checks:** fresh.
+
+### Tomatoes
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box, half-finger height | – | about £8.50 good | – | They charge £10 – too much |
+| Box | 6 kg | about £9 good | £1.50 per kg | |
+| Salad tomatoes, box | – | around £11 | – | Good size |
+| Cherry tomatoes | – | – | – | |
+
+- **Suppliers:** Dunn's Produce (Simon sells the best), VegExpress.
+- **Checks:** other stores may have bigger tomatoes for the same price – compare before buying.
+
+---
 
 ## Herbs and greens
 
-| Item | Usual price | Suppliers | What to check |
-|---|---|---|---|
-| Coriander | £6–£8 | New Fresh Veg Limited | Look inside: bunches tightly bound, not loose. Check box weight. Look underneath for bad leaves |
-| Mint | £10–£13 if fresh | New Fresh Veg Limited | Dry, crackly bottom or dying leaves is bad: around £5 |
-| Spinach | £6–£8 | – | Dead leaves underneath = goes off in a few days |
+### Coriander
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box | – | £6–£8 | – | |
+
+- **Checks:** look inside – bunches tightly bound, not loose or badly fitted. Check the box weight; some are heavier. Look underneath for bad leaves.
+- **Suppliers:** New Fresh Veg Limited.
+
+### Mint
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box, fresh | – | £10–£13 | – | |
+| Box, dry | – | around £5 | – | Dry, crackly bottom – very visible |
+
+- **Checks:** the bottom must not be dry; leaves must not be dying off.
+- **Suppliers:** New Fresh Veg Limited.
+
+### Spinach
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box | 20 pieces | £6–£8 | 30p–40p | Pieces per box from 18 Oct |
+
+- **Checks:** look at the leaves underneath. Dead leaves mean it goes off in a few days.
+
+---
 
 ## Fruit
 
-| Item | Usual price | Suppliers | What to check |
-|---|---|---|---|
-| Banana | £17–£19 good box | – | Spotted: down to £12. Really good price: £7–£8 |
-| Blueberry | – | Paul's Produce (Abdullah left some for us) | – |
-| Clementine / tangerine | – | – | – |
-| Dragon fruit | – | George Haines and Son (Jameel is by it); Paul's Produce (Abdullah left some) | Good quality |
-| Egyptian dates (raw, not dried) | about £6 | Dunn's Produce | £10 is not good |
-| Gala apples | around £10 (10 Oct); £13–£14, not £16 (13 Oct) | – | Bright red, clear in the packets. Need 4+ per bowl – customers don't pick up 3 |
-| Grapes (red) | – | – | Good quality |
-| Kiwi | £8–£10 | – | – |
-| Lime | – | – | – |
-| Melon | – | – | Small pds melon – the green oval one |
-| Pink Lady apples | – | – | – |
-| Pomegranate | – | – | – |
-| Sharon fruit | – | – | – |
-| Strawberries | sell around 70p each | – | 30p boxes are low quality; a 70p box was very good |
-| Extras: apricot, plums, guava | – | – | Not vital – buy only at a good price |
+### Banana
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box, good | – | £17–£19 | – | |
+| Box, spotted | – | down to £12 | – | |
+| Box, really good deal | – | about £7–£8 | – | |
+
+### Blueberry
+
+- **Suppliers:** Paul's Produce – Abdullah left some for us.
+
+### Dragon fruit
+
+- **Checks:** good quality.
+- **Suppliers:** George Haines and Son (Jameel is next to them); Paul's Produce – Abdullah left some for us.
+
+### Egyptian dates (raw, not dried)
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| – | – | about £6 okay; £10 too much | – | |
+
+- **Suppliers:** Dunn's Produce.
+
+### Gala apples
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box | – | around £10 | – | 10 Oct |
+| Box | – | £13–£14; not £16 | – | 13 Oct |
+
+- **Checks:** bright red, and clear in the packets.
+- **Selling:** customers don't pick up bowls of 3 – need 4 or more per bowl. Work this out when looking at boxes.
+
+### Grapes
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Loose box | 5 kg | – | – | |
+| Box of containers | about 11 containers | about £7 | about 60p (64p) | |
+
+- **Checks:** red, good quality.
+
+### Kiwi
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box | – | £8–£10 | – | 13 Oct |
+
+### Melon
+
+- **Notes:** small pds melon – the green oval one. Look for good deals.
+
+### Strawberries
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box | – | around 30p | – | Low quality |
+| Box | – | 70p | – | Very good quality |
+
+- **Selling:** can sell around 70p each.
+
+---
 
 ## Other
 
-| Item | Usual price | Suppliers | What to check |
-|---|---|---|---|
-| Birdseed | £14.50 for 20 kg | George Haines and Son | – |
+### Birdseed
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Bag | 20 kg | £14.50 | about 73p per kg | |
+
+- **Suppliers:** George Haines and Son.
+
+---
+
+## Not priced yet
+
+Items we buy but know nothing else about yet:
+
+- **Vegetables:** bird's-eye chilli, bullet chilli, butternut squash, carrot, cassava, cauliflower, ginger, haldi, lettuce, turnip / round turnip, white potato, small potato, yellow plantain.
+- **Fruit:** clementine, tangerine, lime, Pink Lady apples, pomegranate, Sharon fruit.
+- **Extras** (only at a good price): apricot, plums, guava, some sort of succulent fruit.
 
 ## Suppliers at a glance
 
