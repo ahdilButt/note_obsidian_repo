@@ -45,27 +45,27 @@ Muli 20 15
 - [ ] Aubergine – cheap
 - [ ] Tangerines
 - [ ] Bird's-eye chilli
+- [ ] bullet ch
 - [ ] Butternut squash
-- [ ] Cassava
 - [ ] Cherry tomato
-- [ ] Peeled garlic
-- [ ] Red onion – 1 kg packet
+- [x] Peeled garlic
+- [x] loose garlic
+- [x] ginger
 - [ ] Spring onion – fresh
-- [ ] Yellow plantain
+- [x] Yellow plantain
 - [ ] Small potato
 - [ ] Salad potato
 - [ ] Pomegranate
-- [ ] Red capsicum – we don't have any
+- [x] Red capsicum – we don't have any
 - [ ] Tomatoes – more tomatoes
 - [ ] Salad tomatoes – around £11 a box, good size
 - [ ] Round turnip
 - [ ] Yellow capsicum
-- [ ] Haldi – we don't have any
 - [ ] Long muli – we don't have any
 - [ ] Cauliflower
-- [ ] Onions – 4 kg
-- [ ] Onions – 8 kg
-- [ ] Onions – at least 3 × 25 kg
+- [x] Onions – 4 kg
+- [x] Onions – 8 kg
+- [x] Onions – at least 3 × 25 kg
 - [ ] Melons – if there are any good deals
 
 #### Extras (not vital – get if the price is good)
