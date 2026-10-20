@@ -1,6 +1,6 @@
 ---
 created: 2026-10-18T16:52:59+00:00
-updated: 2026-10-18T16:55:42+00:00
+updated: 2026-10-20T13:41:35+00:00
 source: telegram
 ---
 
@@ -48,8 +48,15 @@ What we buy at the market, broken down by item and by the **form** it comes in (
 | Form | Per pack | Pack price | Per unit | Notes |
 |---|---|---|---|---|
 | – | – | – | – | Green and red; red currently out of stock |
+| Red capsicum | – | about £8 | – | 19 Oct – bought. Not bad; might easily make money |
 
 - **Selling:** tiny ones – can make 3 in a bowl.
+
+### Chilli (type not given)
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| Box | roughly 6 kg | about £8 – good price | about £1.33 per kg | 19 Oct |
 
 ### Courgette
 
@@ -99,6 +106,9 @@ What we buy at the market, broken down by item and by the **form** it comes in (
 |---|---|---|---|---|
 | Box | – | £14–£16 depending on quality | – | |
 | Box, low quality | – | around £10 | – | Spotty and dark |
+| Box | 6 kg | go to about £13; £13–£16 is good | £2.17–£2.67 per kg | 19 Oct |
+
+- **Checks:** not white at the top, and not spotty along the side.
 
 ### Onions
 
@@ -108,6 +118,14 @@ What we buy at the market, broken down by item and by the **form** it comes in (
 | Bag | 8 kg | – | – | |
 | Bag | 25 kg | – | – | We need at least 3 |
 | Red onion packet | 1 kg | – | – | |
+
+### Plantain
+
+| Form | Per pack | Pack price | Per unit | Notes |
+|---|---|---|---|---|
+| – | 72 pieces | £2 | about 3p | 19 Oct – good profit on that |
+
+- **Notes:** yellow plantain also wanted.
 
 ### Spring onion
 
@@ -246,7 +264,7 @@ What we buy at the market, broken down by item and by the **form** it comes in (
 
 Items we buy but know nothing else about yet:
 
-- **Vegetables:** bird's-eye chilli, bullet chilli, butternut squash, carrot, cassava, cauliflower, ginger, haldi, lettuce, turnip / round turnip, white potato, small potato, yellow plantain.
+- **Vegetables:** bird's-eye chilli, bullet chilli, butternut squash, carrot, cassava, cauliflower, ginger, haldi, lettuce, turnip / round turnip, white potato, small potato.
 - **Fruit:** clementine, tangerine, lime, Pink Lady apples, pomegranate, Sharon fruit.
 - **Extras** (only at a good price): apricot, plums, guava, some sort of succulent fruit.
 

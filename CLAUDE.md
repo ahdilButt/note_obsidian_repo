@@ -92,6 +92,30 @@ Property rules.
 
 Questions about people. "?who do I know in Austin" → search the location and affiliation properties and the backlinks of place and org notes, and name the notes as [[links]].
 
+## Market prices
+
+Trigger. When I talk about the price, form (box size, pieces, kg) or quality of an item for the shop, or say we bought something.
+
+Fast lane. The destination is fixed, so skip the suggest/wait steps.
+1. Capture to _inbox/ first, as usual.
+2. Update the item's section in Business/Madani/Market price guide.md: a form row (form, per pack, pack price, per unit, notes with the date), plus checks, suppliers and selling notes. If the item is only listed under "Not priced yet", give it its own section. Work out per unit only from figures I gave.
+3. Never overwrite a price. If new info differs from what's there, add a new dated row.
+4. If I say we bought it, also add a row to Business/Madani/Purchase log.md: date, item, form, quantity, price paid, store (blank if I didn't say).
+5. Move the capture to _archive/captures/, commit, and reply in one line:
+   Logged → Spinach (box 20pc £7) · bought
+6. If something is unclear (which item, what a number means), log what's clear and ask in one line.
+
+## Pakistan trip
+
+Trigger. When I send a note about the Pakistan trip. This overrides the "only when I explicitly ask" trigger for people and places.
+
+Fast lane. The destination is Pakistan trip/, so skip the suggest/wait steps.
+1. Capture to _inbox/ first, as usual.
+2. File the tidied text (with its Original callout, under a ### YYYY-MM-DD heading) into the trip note it belongs in: Trip notes (general), What to do (as checkboxes), Today's schedule, Family and people notes, or Location notes. If parts belong in different notes, split them. Ask in one line only if it's genuinely unclear.
+3. For every place I mention, create or update its note in Places/; for every person, in People/. Follow the People, places and organisations rules (search first, frontmatter, stubs, conflicts). Add what I said about them under a dated heading, and link each one from Location notes or Family and people notes if it isn't already.
+4. Move the capture to _archive/captures/, commit, and reply in one line:
+   Filed → Pakistan trip/What to do · places: Lahore (new) · people: Uncle Tariq
+
 ## Questions and instructions
 
 - A question (often starting with "?"): answer from my notes, name the notes you used as `[[links]]`, and say plainly when my notes don't cover it. Don't pad answers with outside knowledge unless I ask for it.
