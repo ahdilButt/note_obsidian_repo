@@ -45,7 +45,7 @@ Muli 20 15
 - [ ] Aubergine – cheap
 - [ ] Tangerines
 - [ ] Bird's-eye chilli
-- [ ] bullet ch
+- [x] bullet chilli
 - [ ] Butternut squash
 - [ ] Cherry tomato
 - [x] Peeled garlic
